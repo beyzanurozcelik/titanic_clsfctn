@@ -1,2 +1,2 @@
 # titanic_clsfctn
-applying desicion tree, random forest and logistic regression models on titanic dataset and predicting survived or not.
+In this project I worked with titanic data and I tried to predict that a person gonna stay alive or or not. First I looked into data and understand it as much as I can. Then I looked if there is any missing values. I split dataset as train and test sets. I used decision tree, random forest adn logistic regression for this classification problem. I trained them and made predictions. Finally I checked the models performances with their classification report. 
